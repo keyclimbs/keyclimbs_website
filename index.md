@@ -71,7 +71,7 @@
         Fairfax, VA | (571) | key@keyclimbs.com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
     </div>
     <p>
-        <strong>Summary:</strong> Computer Science graduate and Vulnerability Researcher with deep expertise in AWS infrastructure, Linux internals, and logic flaw analysis. 
+        <strong>Summary:</strong>  Vulnerability Researcher & Computer Scientist with deep expertise in hyperscale infrastructure, Linux internals, and physical layer security. Proven track record of identifying critical logic flaws in enterprise automation and performing deep-dive root cause analysis on complex systems. Leveraging 5+ years of experience at Amazon Web Services (AWS) to transition into vulnerability discovery, exploit analysis, and security engineering.
     </p>
 </header>
 
