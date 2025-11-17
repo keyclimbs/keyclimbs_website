@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,10 +68,10 @@
 <header>
     <h1>Key Leutchit</h1>
     <div class="contact-info">
-        Fairfax, VA | (571) | key@keyclimbs.com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
+        Fairfax, VA | (571) 545-3220 | key@keyclimbs.com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
     </div>
     <p>
-        <strong>Summary:</strong>  Vulnerability Researcher & Computer Scientist with deep expertise in hyperscale infrastructure, Linux internals, and physical layer security. Proven track record of identifying critical logic flaws in enterprise automation and performing deep-dive root cause analysis on complex systems. Leveraging 5+ years of experience at Amazon Web Services (AWS) to transition into vulnerability discovery, exploit analysis, and security engineering.
+        <strong>Summary:</strong> Vulnerability Researcher & Computer Scientist with deep expertise in hyperscale infrastructure, Linux internals, and physical layer security. Proven track record of identifying critical logic flaws in enterprise automation and performing deep-dive root cause analysis on complex systems. Leveraging 5+ years of experience at Amazon Web Services (AWS) to transition into vulnerability discovery, exploit analysis, and security engineering.
     </p>
 </header>
 
@@ -112,4 +112,25 @@
     <h3>Amazon Web Services (AWS) - Data Technician (L3)</h3>
     <div class="job-meta">Sterling, VA | Aug 2020 – Dec 2022</div>
     <ul>
-        <li>Analyzed system
+        <li>Analyzed system logs (syslog, dmesg) to isolate failures in EC2 hardware.</li>
+        <li>Troubleshot complex Layer 1-3 connectivity issues involving WDM optics.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <h3>George Mason University</h3>
+    <div class="job-meta">Bachelor of Science, Computer Science</div>
+    <p>Relevant Coursework: Analysis of Algorithms, Data Structures, Operating Systems, Network Security.</p>
+</section>
+
+<section>
+    <h2>Certifications & Projects</h2>
+    <ul>
+        <li><strong>CompTIA Security+:</strong> Exam Scheduled Dec 2025</li>
+        <li><strong>Home Lab:</strong> Active development of local pentesting lab using Kali Linux and Wireshark.</li>
+    </ul>
+</section>
+
+</body>
+</html>
