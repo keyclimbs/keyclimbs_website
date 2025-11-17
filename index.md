@@ -68,7 +68,7 @@
 <header>
     <h1>Key Leutchit</h1>
     <div class="contact-info">
-        Fairfax, VA | (571) 545-3220 | key@keyclimbs.com | <a href="#">LinkedIn</a> | <a href="#">GitHub</a>
+        Fairfax, VA | (571) | key@keyclimbs.com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
     </div>
     <p>
         <strong>Summary:</strong> Computer Science graduate and Vulnerability Researcher with deep expertise in AWS infrastructure, Linux internals, and logic flaw analysis. 
