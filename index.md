@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Key Leutchit | Vulnerability Researcher</title>
+    <title>Key  | Vulnerability Researcher</title>
     <style>
         :root {
             --bg-color: #1e1e1e;
