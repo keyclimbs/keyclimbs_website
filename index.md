@@ -66,7 +66,7 @@
 <body>
 
 <header>
-    <h1>Key Leutchit</h1>
+    <h1>Key </h1>
     <div class="contact-info">
         Fairfax, VA | (571) 545-xxxx | key [at] keyclimbs [dot] com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
     </div>
