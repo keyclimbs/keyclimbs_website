@@ -66,9 +66,9 @@
 <body>
 
 <header>
-    <h1>Key </h1>
+    <h1>Ki </h1>
     <div class="contact-info">
-        Fairfax, VA | (571) 545-xxxx | key [at] keyclimbs [dot] com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
+        Fairfax, VA | (571) 545-xxxx | ki [at] keyclimbs [dot] com | <a href="https://www.linkedin.com/in/keyclimbs3/">LinkedIn</a> | <a href="https://github.com/keyclimbs">GitHub</a>
     </div>
     <p>
         <strong>Summary:</strong> Vulnerability Researcher & Computer Scientist with deep expertise in hyperscale infrastructure, Linux internals, and physical layer security. Proven track record of identifying critical logic flaws in enterprise automation and performing deep-dive root cause analysis on complex systems. Leveraging 5+ years of experience at Amazon Web Services (AWS) to transition into vulnerability discovery, exploit analysis, and security engineering.
@@ -127,7 +127,6 @@
 <section>
     <h2>Certifications & Projects</h2>
     <ul>
-        <li><strong>CompTIA Security+:</strong> Exam Scheduled Dec 2025</li>
         <li><strong>Home Lab:</strong> Active development of local pentesting lab using Kali Linux and Wireshark.</li>
     </ul>
 </section>
