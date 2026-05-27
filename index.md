@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ki  | Vulnerability Researcher</title>
+    <title>Ki  | 天にも昇る気分  </title>
     <style>
         :root {
             --bg-color: #1e1e1e;
